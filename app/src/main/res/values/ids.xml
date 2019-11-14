@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvUsrEmail" type="id" />
+    <item name="tvUsrCountry" type="id" />
+    <item name="tvUsrPhone" type="id" />
+    <item name="tvUsrDoB" type="id" />
+    <item name="tvUsrGender" type="id" />
+    <item name="ivUserImg" type="id" />
+    <item name="tvUsrName" type="id" />
+</resources>
